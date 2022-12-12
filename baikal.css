@@ -1,8 +1,23 @@
 * {
-    padding:0px;
-    margin:0px;
+    margin: 0px;
+    padding: 0px;
 }
-#header{
+#header {
     background: url("images/header.jpg") no-repeat;
     height: 80px;
+}
+h1 {
+    height: 42px;
+    padding: 12px 0px 0px 200px;
+}
+
+#pogoda{
+    float: left;
+}
+#photo{
+    float: right;
+}
+.p{
+    text-align: justify;
+    margin: 5px;
 }
